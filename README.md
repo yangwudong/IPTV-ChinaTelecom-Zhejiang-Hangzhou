@@ -21,7 +21,13 @@
         - 则需要电信光猫的控制台密码
         - 或者可以使用USB的扩展网口
 
-具体实现方式，可以参考：https://github.com/luckyyyyy/blog/issues/75
+
+
+具体实现方式，可以参考：
+
+https://xiking.win/2021/06/20/4-use-iptv-in-multiple-devices/
+
+https://github.com/luckyyyyy/blog/issues/75
 
 我写得估计没人家好 😂
 
@@ -38,7 +44,8 @@
 多说一句，如果你使用OpenWRT，推荐msd_lite替代udpxy，问题少一点，性能好一点😜
 
 
-=========== **欢迎大家来一起贡献，欢迎提交PR** =========== 
+
+==**欢迎大家来一起贡献，欢迎提交PR，如果喜欢本项目，请Star**==
 
 
 
@@ -92,3 +99,6 @@
 
 [Pixman](https://pixman.io/) - coding做的非常好的IPTV内容提供
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yangwudong/IPTV-ChinaTelecom-Zhejiang-Hangzhou&type=Date)](https://star-history.com/#yangwudong/IPTV-ChinaTelecom-Zhejiang-Hangzhou&Date)
