@@ -25,6 +25,8 @@
 
 具体实现方式，可以参考：
 
+https://github.com/luckyyyyy/blog/issues/44
+
 https://xiking.win/2021/06/20/4-use-iptv-in-multiple-devices/
 
 https://github.com/luckyyyyy/blog/issues/75
