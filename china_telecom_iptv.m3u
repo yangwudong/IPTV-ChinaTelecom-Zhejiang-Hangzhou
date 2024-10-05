@@ -1,0 +1,517 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://assets.livednow.com/epg.xml,http://epg.51zmt.top:8000/e.xml.gz"
+
+##########################################################################################################################################################################################################
+# 全国频道
+# 参考：
+#   老张的四川频道：http://epg.51zmt.top:8000/sctvmulticast.html
+#   全国付费频道：https://zh.wikipedia.org/wiki/付费电视
+##########################################################################################################################################################################################################
+# 中央电视台频道 参考： https://baike.baidu.com/starmap/view?nodeId=0cbc6fa2bcd0c938f20e0463&lemmaTitle=中央电视台综合频道&lemmaId=2185492&starMapFrom=lemma_starMap&fromModule=lemma_starMap
+##########################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视", CCTV 1 综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.130:5140
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视", CCTV 2 财经
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.119:5140
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视", CCTV 3 综艺
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.107:5140
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视", CCTV 4 中文国际（亚）
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.101:5140
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视", CCTV 5 体育
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.108:5140
+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视", CCTV 5+ 体育赛事
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.220:5140
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视", CCTV 6 电影
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.109:5140
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视", CCTV 7 国防军事
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.102:5140
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视", CCTV 8 电视剧
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.110:5140
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视", CCTV 9 纪录
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.121:5140
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视", CCTV 10 科教
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.122:5140
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视", CCTV 11 戏曲
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.132:5140
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视", CCTV 12 社会与法
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.123:5140
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视", CCTV 13 新闻
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.97:5140
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视", CCTV 14 少儿
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.124:5140
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视", CCTV 15 音乐
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.133:5140
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 奥林匹克
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.192:5140
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 奥林匹克 4K" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 奥林匹克 4K 
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.63:5140
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17 农业农村
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.113:5140
+
+#EXTINF:-1 tvg-id="中央新影发现之旅" tvg-name="中央新影发现之旅" tvg-logo="https://assets.livednow.com/logo/中央新影发现之旅.png" group-title="央视", 中央新影 发现之旅
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.98:5140
+
+
+##########################################################################################################################################################################################################
+# 中国国际电视台频道 参考： https://baike.baidu.com/starmap/view?nodeId=f9ba484ea7ed9bf19f8afdf3&lemmaTitle=中国国际电视台&lemmaId=20351311&starMapFrom=lemma_starMap&fromModule=lemma_starMap
+##########################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.126:5140
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN 西班牙语
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.36:5140
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN 法语
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.37:5140
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN 阿拉伯语
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.38:5140
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视国际", CGTN 俄语
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.39:5140
+
+
+###########################################################################################
+# 中国教育电视台频道 参考：https://baike.baidu.com/item/中国教育电视台/2834503#5
+###########################################################################################
+
+#EXTINF:-1 tvg-id="中国教育电视台-1" tvg-name="中国教育电视台 1" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-1.png" group-title="央视教育", 中国教育电视台 1
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.169:5140
+
+#EXTINF:-1 tvg-id="中国教育电视台-4" tvg-name="中国教育电视台 4" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="央视教育", 中国教育电视台 4
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.162:5140
+
+
+########################################################################################################################
+# 卫视频道 参考：https://www.tvmao.com/program/playing/satellite
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视", 北京卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.179:5140
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="卫视", 东方卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.146:5140
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视", 浙江卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.145:5140
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视", 湖南卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.190:5140
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视", 江西卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.119:5140
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" group-title="卫视", 山东卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.127:5140
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="卫视", 深圳卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.188:5140
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视", 江苏卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.144:5140
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://assets.livednow.com/logo/海南卫视.png" group-title="卫视", 海南卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.165:5140
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视", 广东卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.149:5140
+
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://assets.livednow.com/logo/天津卫视.png" group-title="卫视", 天津卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.104:5140
+
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://assets.livednow.com/logo/河北卫视.png" group-title="卫视", 河北卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.105:5140
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title="卫视", 安徽卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.106:5140
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://assets.livednow.com/logo/重庆卫视.png" group-title="卫视", 重庆卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.114:5140
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视", 湖北卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.147:5140
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" group-title="卫视", 四川卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.118:5140
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title="卫视", 河南卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.142:5140
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://assets.livednow.com/logo/山西卫视.png" group-title="卫视", 山西卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.51:5140
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://assets.livednow.com/logo/东南卫视.png" group-title="卫视", 东南卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.135:5140
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" group-title="卫视", 贵州卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.139:5140
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/辽宁卫视.png" group-title="卫视", 辽宁卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.129:5140
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" group-title="卫视", 黑龙江卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.189:5140
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" group-title="卫视", 云南卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.115:5140
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title="卫视", 吉林卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.164:5140
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title="卫视", 甘肃卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.163:5140
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://assets.livednow.com/logo/三沙卫视.png" group-title="卫视", 三沙卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.175:5140
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://assets.livednow.com/logo/广西卫视.png" group-title="卫视", 广西卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.136:5140
+
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://assets.livednow.com/logo/延边卫视.png" group-title="卫视", 延边卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.184:5140
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视", 陕西卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.59:5140
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://assets.livednow.com/logo/青海卫视.png" group-title="卫视", 青海卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.131:5140
+
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://assets.livednow.com/logo/兵团卫视.png" group-title="卫视", 兵团卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.72:5140
+
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://assets.livednow.com/logo/宁夏卫视.png" group-title="卫视", 宁夏卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.57:5140
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://assets.livednow.com/logo/内蒙古卫视.png" group-title="卫视", 内蒙古卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.148:5140
+
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://assets.livednow.com/logo/西藏卫视.png" group-title="卫视", 西藏卫视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.70:5140
+
+
+###################################################################################################################################
+# 凤凰卫视频道 参考：https://zh.wikipedia.org/wiki/凤凰卫视#电视频道
+###################################################################################################################################
+
+#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://assets.livednow.com/logo/凤凰卫视中文.png" group-title="国际",凤凰卫视中文
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.191:5140
+
+#EXTINF:-1 tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://assets.livednow.com/logo/凤凰卫视资讯.png" group-title="国际",凤凰卫视资讯
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.192:5140
+
+
+
+########################################################################################################################################################################################################################################################################################
+# 浙江省频道 参考： https://baike.baidu.com/starmap/view?nodeId=097c78352a76f0e4534957c9&lemmaTitle=%E6%B5%99%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93&lemmaId=3929354&starMapFrom=lemma_starMap&fromModule=lemma_starMap
+########################################################################################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="钱江都市" tvg-name="钱江都市" tvg-logo="https://epg.v1.mk/logo/钱江都市.png" group-title="浙江", 钱江都市
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.132:5140
+
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://epg.v1.mk/logo/浙江经视.png" group-title="浙江", 浙江经济生活
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.133:5140
+
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://epg.v1.mk/logo/浙江教科影视.png" group-title="浙江", 浙江教科影视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.134:5140
+
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://epg.v1.mk/logo/浙江公共新闻.png" group-title="浙江", 浙江公共新闻
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.137:5140
+
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.v1.mk/logo/浙江民生休闲.png" group-title="浙江", 浙江民生休闲
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.136:5140
+
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.v1.mk/logo/浙江少儿.png" group-title="浙江", 浙江少儿
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.138:5140
+
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://epg.v1.mk/logo/之江纪录.png" group-title="浙江", 之江纪录
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.71:5140
+
+#EXTINF:-1 tvg-id="69" tvg-name="中国蓝直播" tvg-logo="https://epg.v1.mk/logo/中国蓝直播.png" group-title="浙江",中国蓝直播
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.108:5140
+
+
+####################################################################################################################################################################################################################################
+# 杭州本地频道 参考： https://baike.baidu.com/item/杭州市广播电视台/56748277?fromtitle=杭州广播电视台&fromid=24525328
+####################################################################################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.v1.mk/logo/杭州综合.png" group-title="浙江", 杭州-1 综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.173:5140
+
+#EXTINF:-1 tvg-id="西湖明珠" tvg-name="西湖明珠" tvg-logo="https://epg.v1.mk/logo/西湖明珠.png" group-title="浙江", 杭州-2 明珠
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.174:5140
+
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.v1.mk/logo/杭州生活.png" group-title="浙江", 杭州-3 生活
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.175:5140
+
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.v1.mk/logo/杭州影视.png" group-title="浙江", 杭州-4 影视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.176:5140
+
+#EXTINF:-1 tvg-id="杭州青少" tvg-name="杭州青少" tvg-logo="https://epg.v1.mk/logo/杭州青少.png" group-title="浙江", 杭州-5 青少
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.177:5140
+
+#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.v1.mk/logo/杭州导视.png" group-title="浙江", 杭州导视
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.182:5140
+
+#EXTINF:-1 tvg-id="余杭新闻频道" tvg-name="余杭新闻频道" tvg-logo="https://epg.v1.mk/logo/余杭新闻频道.png" group-title="浙江", 余杭新闻频道
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.159:5140
+
+
+
+####################################################################################################################################################################################################################################
+# 宁波频道，宁波5少儿频道已停播 参考： https://baike.baidu.com/item/宁波广播电视集团/7217257?fromtitle=宁波电视台&fromid=2764911#5
+####################################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="宁波新闻" tvg-name="宁波新闻" tvg-logo="https://epg.v1.mk/logo/宁波新闻.png" group-title="浙江", 宁波-1 新闻
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.168:5140
+
+#EXTINF:-1 tvg-id="宁波经济" tvg-name="宁波经济" tvg-logo="https://epg.v1.mk/logo/宁波经济.png" group-title="浙江", 宁波-2 经济
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.178:5140
+
+#EXTINF:-1 tvg-id="宁波都市" tvg-name="宁波都市" tvg-logo="https://epg.v1.mk/logo/宁波都市.png" group-title="浙江", 宁波-3 都市
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.179:5140
+
+#EXTINF:-1 tvg-id="宁波影视剧" tvg-name="宁波影视剧" tvg-logo="https://epg.v1.mk/logo/宁波影视剧.png" group-title="浙江", 宁波-4 影视剧
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.180:5140
+
+# #EXTINF:-1 tvg-id="宁波少儿" tvg-name="宁波少儿" tvg-logo="https://epg.v1.mk/logo/宁波少儿.png" group-title="浙江", 宁波少儿
+# http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.181:5140
+
+
+####################################################################################################################################################################################################################################
+# 浙江其他市级频道 
+####################################################################################################################################################################################################################################
+
+# 参考：https://baike.baidu.com/item/衢州广电传媒集团/57121821?fromModule=search-result_lemma#5
+#EXTINF:-1 tvg-id="衢州" tvg-name="衢州" tvg-logo="https://epg.v1.mk/logo/衢州新闻综合.png" group-title="浙江", 衢州
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.155:5140
+
+# 参考：https://zh.wikipedia.org/wiki/嘉兴市广播电视集团
+#EXTINF:-1 tvg-id="嘉兴" tvg-name="嘉兴" group-title="浙江", 嘉兴 新闻综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.163:5140
+
+# 参考：https://zh.wikipedia.org/wiki/台州广播电视总台#电视频道
+#EXTINF:-1 tvg-id="台州" tvg-name="台州" group-title="浙江", 台州 新闻综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.157:5140
+
+# 参考：https://zh.wikipedia.org/wiki/湖州广播电视总台#电视频道
+#EXTINF:-1 tvg-id="湖州" tvg-name="湖州" group-title="浙江", 湖州 新闻综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.158:5140
+
+# 参考：https://zh.wikipedia.org/wiki/温州广播电视传媒集团#现有电视频道
+#EXTINF:-1 tvg-id="温州" tvg-name="温州" group-title="浙江", 温州 新闻综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.87:5140
+
+# 参考：https://zh.wikipedia.org/wiki/丽水市广播电视总台#电视频道
+#EXTINF:-1 tvg-id="丽水" tvg-name="丽水" group-title="浙江", 丽水 新闻综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.162:5140
+
+#EXTINF:-1 tvg-id="桐乡" tvg-name="桐乡" group-title="浙江", 桐乡 新闻综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.169:5140
+
+# 参考：https://zh.wikipedia.org/wiki/绍兴市新闻传媒中心#电视服务
+#EXTINF:-1 tvg-id="绍兴" tvg-name="绍兴" tvg-logo="https://epg.v1.mk/logo/绍兴新闻综合.png" group-title="浙江", 绍兴新闻综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.156:5140
+
+# 参考：https://zh.wikipedia.org/wiki/金華廣播電視總台#电视频道
+#EXTINF:-1 tvg-id="金华" tvg-name="金华" group-title="浙江", 金华 新闻综合
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.161:5140
+
+
+########################################################################################################################
+# 上海免费 频道 参考：https://zh.wikipedia.org/wiki/上海广播电视台#免费频道
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://assets.livednow.com/logo/上海新闻综合.png" group-title="上海", 上海-1 新闻综合
+# 电信IPTV暂时没找到，可以使用pixman
+# http://{{pixman地址}}:{{pixman端口}}/itv/bestzb/5000000011000031110
+
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://assets.livednow.com/logo/上海第一财经.png" group-title="上海", 上海-2 第一财经
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.125:5140
+
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://assets.livednow.com/logo/上海五星体育.png" group-title="上海", 上海-3 五星体育
+# 电信IPTV暂时没找到，可以使用pixman
+# http://{{pixman地址}}:{{pixman端口}}/itv/bestzb/5000000010000017540
+
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="上海", 上海-6 纪实人文
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.168:5140
+
+########################################################################################################################
+# 上海付费 频道 参考：https://zh.wikipedia.org/wiki/上海广播电视台#数字付费频道
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="SiTV-金色学堂" tvg-name="SiTV 金色学堂" tvg-logo="https://assets.livednow.com/logo/SiTV-金色学堂.png" group-title="上海", SiTV 金色学堂
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.122:5140
+
+#EXTINF:-1 tvg-id="SiTV-七彩戏剧" tvg-name="SiTV 七彩戏剧" tvg-logo="https://assets.livednow.com/logo/SiTV-七彩戏剧.png" group-title="上海", SiTV 七彩戏剧
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.75:5140
+
+#EXTINF:-1 tvg-id="SiTV-东方财经" tvg-name="SiTV 东方财经" tvg-logo="https://assets.livednow.com/logo/上海东方财经.png" group-title="上海", SiTV 东方财经
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.177:5140
+
+#EXTINF:-1 tvg-id="SiTV-法治天地" tvg-name="SiTV 法治天地" tvg-logo="https://assets.livednow.com/logo/SiTV-法治天地.png" group-title="上海", SiTV 法治天地
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.120:5140
+
+#EXTINF:-1 tvg-id="SiTV-劲爆体育" tvg-name="SiTV 劲爆体育" tvg-logo="https://assets.livednow.com/logo/SiTV-劲爆体育.png" group-title="上海", SiTV 劲爆体育
+# 电信IPTV暂时没找到，可以使用pixman
+# http://{{pixman地址}}:{{pixman端口}}/itv/bestzb/5000000002000029972
+
+#EXTINF:-1 tvg-id="SiTV-魅力足球" tvg-name="SiTV 魅力足球" tvg-logo="https://assets.livednow.com/logo/SiTV-魅力足球.png" group-title="上海", SiTV 魅力足球
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.176:5140
+
+#EXTINF:-1 tvg-id="SiTV-乐游" tvg-name="SiTV 乐游" tvg-logo="https://assets.livednow.com/logo/SiTV-乐游.png" group-title="上海", SiTV 乐游
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.148:5140
+
+#EXTINF:-1 tvg-id="SiTV-动漫秀场" tvg-name="SiTV 动漫秀场" tvg-logo="https://assets.livednow.com/logo/SiTV-动漫秀场.png" group-title="上海", SiTV 动漫秀场
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.12:5140
+
+#EXTINF:-1 tvg-id="SiTV-都市剧场" tvg-name="SiTV 都市剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-都市剧场.png" group-title="上海", SiTV 都市剧场
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.11:5140
+
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场-4K" tvg-name="SiTV 欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场-4K.png" group-title="上海", SiTV 欢笑剧场-4K
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.52:5140
+
+#EXTINF:-1 tvg-id="SiTV-欢笑剧场" tvg-name="SiTV 欢笑剧场" tvg-logo="https://assets.livednow.com/logo/SiTV-欢笑剧场.png" group-title="上海", SiTV 欢笑剧场
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.229:5140
+
+#EXTINF:-1 tvg-id="SiTV-生活时尚" tvg-name="SiTV 生活时尚" tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title="上海", SiTV 生活时尚
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.15:5140
+
+#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV 游戏风云" tvg-logo="https://assets.livednow.com/logo/SiTV-游戏风云.png" group-title="上海", SiTV 游戏风云
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.14:5140
+
+
+########################################################################################################################
+# 湖南付费频道 参考：https://zh.wikipedia.org/wiki/湖南广播电视台#数字付费频道
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="https://assets.livednow.com/logo/湖南快乐垂钓.png" group-title="湖南", 湖南快乐垂钓
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.123:5140
+
+#EXTINF:-1 tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="https://assets.livednow.com/logo/湖南茶频道.png" group-title="湖南", 湖南茶频道
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.124:5140
+
+
+########################################################################################################################
+# 儿童/卡通 频道 
+# 参考：
+#   北京：https://zh.wikipedia.org/wiki/北京广播电视台#电视频道
+#   上海：https://zh.wikipedia.org/wiki/上海广播电视台#免费频道
+#   湖南：https://zh.wikipedia.org/wiki/湖南广播电视台#现有频道
+#   百视通：https://www.bestv.com.cn/
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="少儿卡通", 北京 卡酷少儿
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.166:5140
+
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="上海哈哈炫动" tvg-logo="https://assets.livednow.com/logo/哈哈炫动.png" group-title="地方", 上海 哈哈炫动
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.167:5140
+
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="少儿卡通", 金鹰卡通
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.138:5140
+
+#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" group-title="少儿卡通", BesTV 少儿
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.183:5140
+
+
+########################################################################################################################
+# 中广传播 参考：https://baike.baidu.com/item/中广传播集团有限公司/5066049#3-2
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://assets.livednow.com/logo/睛彩竞技.png" group-title="睛彩", 睛彩竞技
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.193:5140
+
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://assets.livednow.com/logo/睛彩篮球.png" group-title="睛彩", 睛彩篮球
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.194:5140
+
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://assets.livednow.com/logo/睛彩青少.png" group-title="睛彩", 睛彩青少
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.195:5140
+
+
+
+########################################################################################################################
+# 百视通 参考：https://www.bestv.com.cn/
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="BesTV 新闻记录" tvg-name="BesTV 新闻记录" group-title="BesTV", BesTV 新闻记录
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.182:5140
+
+#EXTINF:-1 tvg-id="BesTV 电影" tvg-name="BesTV 电影" group-title="BesTV", BesTV 电影 4K
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.185:5140
+
+#EXTINF:-1 tvg-id="BesTV 电视剧" tvg-name="BesTV 电视剧" group-title="BesTV", BesTV 电视剧
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.116:5140
+
+#EXTINF:-1 tvg-id="BesTV 少儿" tvg-name="BesTV 少儿" group-title="BesTV", BesTV 少儿
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.183:5140
+
+#EXTINF:-1 tvg-id="BesTV 新威体育" tvg-name="BesTV 新威体育" group-title="BesTV", BesTV 新威体育
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.203:5140
+
+
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="历史" tvg-name="历史" group-title="其他", 历史
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.117:5140
+
+# 华数：https://itv.wasu.cn/
+#EXTINF:-1 tvg-id="华数娱乐" tvg-name="华数娱乐" group-title="其他", 华数娱乐
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.116:5140
+
+
+########################################################################################################################
+# 浙江广播 参考：https://zh.wikipedia.org/wiki/浙江广播电视集团#广播频率
+########################################################################################################################
+
+#EXTINF:-1 tvg-id="FM-浙江之声" tvg-name="FM-浙江之声" group-title="FM广播", FM-浙江之声
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.79:5140
+
+#EXTINF:-1 tvg-id="FM-浙江新闻广播" tvg-name="FM-浙江新闻广播" group-title="FM广播", FM-浙江新闻广播
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.80:5140
+
+#EXTINF:-1 tvg-id="FM-浙江经济广播" tvg-name="FM-浙江经济广播" group-title="FM广播", FM-浙江经济广播
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.81:5140
+
+#EXTINF:-1 tvg-id="FM-浙江音乐调频" tvg-name="FM-浙江音乐调频" group-title="FM广播", FM-浙江音乐调频
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.82:5140
+
+#EXTINF:-1 tvg-id="FM-浙江交通之声" tvg-name="FM-浙江交通之声" group-title="FM广播", FM-浙江交通之声
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.83:5140
+
+#EXTINF:-1 tvg-id="FM-浙江女主播电台" tvg-name="FM-浙江女主播电台" group-title="FM广播", FM-浙江女主播电台
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.84:5140
+
+#EXTINF:-1 tvg-id="FM-浙江城市之声" tvg-name="FM-浙江城市之声" group-title="FM广播", FM-浙江城市之声
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.85:5140
+
+#EXTINF:-1 tvg-id="FM-浙江民生资讯" tvg-name="FM-浙江民生资讯" group-title="FM广播", FM-浙江民生资讯
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.86:5140
+
+########################################################################################################################
+
+
+
+
+
+
+
