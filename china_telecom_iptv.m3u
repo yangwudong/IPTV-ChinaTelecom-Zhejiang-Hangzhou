@@ -14,7 +14,7 @@
 http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.130:5140
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视", CCTV 2 财经
-http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.119:5140
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.25:5140
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视", CCTV 3 综艺
 http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.107:5140
@@ -41,28 +41,28 @@ http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.110
 http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.121:5140
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视", CCTV 10 科教
-http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.122:5140
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.22:5140
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视", CCTV 11 戏曲
 http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.132:5140
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视", CCTV 12 社会与法
-http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.123:5140
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.21:5140
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视", CCTV 13 新闻
-http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.97:5140
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.111:5140
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视", CCTV 14 少儿
-http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.124:5140
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.103:5140
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视", CCTV 15 音乐
 http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.133:5140
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 奥林匹克
-http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.192:5140
-
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16 奥林匹克 4K" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 奥林匹克 4K 
 http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.63:5140
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16 奥林匹克
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.112:5140
 
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17 农业农村
 http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.113:5140
@@ -467,6 +467,55 @@ http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.183
 
 #EXTINF:-1 tvg-id="BesTV 新威体育" tvg-name="BesTV 新威体育" group-title="BesTV", BesTV 新威体育
 http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.203:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.31:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知1
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.32:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知2
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.233:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知3
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.234:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知4
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.235:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知5
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.236:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知6
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.237:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知7
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.244:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知8
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.245:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知9
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.200.246:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知10
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.201:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知11
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.202:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知12
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.204:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知13
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.205:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知14
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.206:5140
+
+#EXTINF:-1 tvg-id="BesTV 未知" tvg-name="BesTV 未知" group-title="BesTV", BesTV 未知15
+http://{{路由器地址必须替换}}:{{端口必须替换}}/rtp/233.50.201.207:5140
+
 
 
 ########################################################################################################################
